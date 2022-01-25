@@ -18,7 +18,7 @@ const config = {
 };
 
 const linking = {
-  prefixes: ['https://app'],
+  prefixes: ['https://app', 'phy://app', 'phy://', 'phy'],
   config,
 };
 
